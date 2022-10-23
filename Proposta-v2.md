@@ -94,12 +94,12 @@ GUIOES DE TESTE
 •	Guião 3 (utilização diferente do core do projeto) – Um utilizador quer participar numa partida de padel, mas não conhece ninguém que queira participar num jogo, utilizando a nossa aplicação o usuário pode se juntar se a partidas que se estão a ser organizadas por outros utilizadores e que necessitem de participantes.
 
 
-Descrição genérica da solução a implementar
+DESCRIÇÃO GENERICA DA SOLUÇÃO A IMPLEMENTAR
 
 Como referimos pretendemos criar uma aplicação, que os usuários possam organizar ou participar em partidas de vários deportos, dizendo isto o nosso aplicativo vai dar a possibilidade aos utilizadores que criem e gerenciem “eventos”, que serão os jogos que o utilizador criou, o organizador do jogo poderá convidar amigos e colegas que estão inseridos na app, ou poderá deixar o evento aberto para que outros utilizadores se possam juntar ao “evento”. 		Assim que o número de participantes atingir o valor desejado para a que a partida se possa realizar o jogo será marcado e os participantes receberam uma notificação avisando do mesmo.
 
 
-Enquadramento nas diversas Unidades Curriculares: 
+ENQUADRAMENTO NAS DIVERSAS UNIDADES CURRICULARES: 
 
 •	Base de Dados – O projeto inclui uma base de dados para o armazenamento, gestão, manipulação e organização de informação sobre os utilizadores, especificamente jogadores, organizadores, campos, notificações e aos jogos;
 
@@ -112,7 +112,7 @@ Enquadramento nas diversas Unidades Curriculares:
 
 •	Matemática Discreta - Desenvolvimento da componente de processamento e análise dos dados recolhidos pela aplicação.
 
-Requisitos Técnicos para desenvolvimento do projeto
+REQUESITOS TECNICOS PARA DESENVOLVER O PROJETO
 
  Para o desenvolvimento deste projeto, será necessária a aprendizagem e utilização de algumas linguagens de programação e outras plataformas como:
  
@@ -122,7 +122,7 @@ Requisitos Técnicos para desenvolvimento do projeto
 •	Modelador de software para criação do diagrama de caso de uso da App;
 •	Editor de texto;
 
-Arquitetura da solução
+ARQUITETURA DA SOLUÇÃO
 
 A nossa aplicação, será pequena e simples, no entanto necessitara de ser organizada por várias tecnologias e equipamentos, como:
 
@@ -130,7 +130,7 @@ A nossa aplicação, será pequena e simples, no entanto necessitara de ser orga
 •	Base de dados
 •	Aplicação Android
 
-Tecnologias a utilizar 
+TECNOLOGIAS A UTILIZAR
 
 •	Spring Boot- Desenvolvimento de um servidor em Spring Boot usando arquitetura REST, integração da aplicação com a base de dados.    
 •	PostgreSQL – Para a base de dados.  
