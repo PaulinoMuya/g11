@@ -25,6 +25,8 @@ Desenvolvimento de uma App para desporto: “TeamUp”
 Alano Baptista
 Paulino Muya
 Luquénia Galiano
+
+
 ÍNDICE
 
 •	Introdução
