@@ -1,3 +1,5 @@
+![Imagem1](https://user-images.githubusercontent.com/99680341/197422438-50bb6d0d-4a94-4d1f-9d3c-1bb538d984ec.png)
+
 Projecto de Desenvolvimento Móvel
 Desenvolvimento de uma App para desporto: “TeamUp”
 
