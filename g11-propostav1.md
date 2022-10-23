@@ -1,121 +1,149 @@
-![](RackMultipart20221008-1-necj8l_html_653b8feceb21a409.png)
+ Imagem1.png
+
 
 Projecto de Desenvolvimento Móvel
+Desenvolvimento de uma App para desporto: “TeamUp”
 
-Desenvolvimento de uma App para desporto: "TeamUp"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Alano Baptista
-
 Paulino Muya
+Luquénia Galiano
+ÍNDICE
 
-Luquenia Galiano
+•	Introdução
+•	Problema
+•	Objetivos
+•	Público Alvo
+•	Pesquisa de mercado sobre aplicações semelhantes
+•	Caso de uso da Aplicação
+•	Requisitos Técnicos para Desenvolvimento do Projeto
+•	Ferramentas e Tecnologias para o Desenvolvimento do Projeto
+•	Planejamento e Calendarização
+•	Bibliografia
 
-**ÍNDICE**
 
-III.......................................................................................................................INTRODUÇÃO
 
-III.................................................................................................................................Problema
 
-IV..................................................................................................................................Objetivos
 
-IV….......................................................................................................................Público Alvo
 
-IV….........................................................Pesquisa de mercado sobre aplicações semelhantes
 
-IV............................................................................................…......Caso de uso da Aplicação
 
-V ..........................................................Requisitos Técnicos para Desenvolvimento do Projeto
 
-V...........................................Ferramentas e Tecnologias para o Desenvolvimento do Projeto
 
-VI..............................................................................................Planejamento e Calendarização
 
-VII...........................................................................................................................Bibliografia
 
-**INTRODUÇÃO**
 
-Atualmente o uso de uma App de desporto vem crescendo muito na sociedade, isso se deve pelo facto de haver inúmeros jovens que praticam desportos como futebol, basketball, padel. Com isso a utilização de uma App de desporto resulta na exatidão e agilidade das pesquisas por um jogo.
 
-De tal razão usar uma App de desporto a seu favor, onde possa fazer uma calendarização e um acompanhamento dos jogos que se irão realizar, entretanto, o nosso aplicativo oferece monitorização, confiabilidade, maneiras de atletas se comunicarem e uma tecnologia no desporto.
 
-**PROBLEMAS**
 
-**1.**
 
-Através de uma conversa sobre desporto entre amigos e estudantes da universidade europeia podemos observar que a grande dificuldade em agendar partidas ou participar em jogos desportivos deve-se a ausência de informações credíveis sobre campos e equipas disponíveis para uma partida.
 
-**2.**
 
-"De acordo com Instituto Nacional de Estatística, em 2020 **mais de metade da população** portuguesa com 18 anos ou mais, sendo a percentagem referente de 53%, tinha excesso de peso ou obesidade.
 
-Números preocupantes que estão, entre outras causas, ligados a hábitos de vida mais sedentários e à transformação dos hábitos alimentares."
 
-Um dos problemas que esta a afetar não só Portugal mas nos países desenvolvidos, esta app poderá ajudar a criar alguns hábitos mais saudáveis a pessoas que tem vidas mais sedentárias.
 
-**OBJETIVOS**
+INTRODUÇÃO
 
-**Objetivo geral**
+Atualmente a nossa sociedade esta cada vez mais sedentária, segundo Instituto Nacional de Estatística, em 2020 mais de metade da população portuguesa, tem excesso de peso ou obesidade, por isso a atividade física tem um papel essencial para garantir o bem-estar físico e psicológico da população.
+No entanto praticar exercício físico sozinho pode ser algo aborrecido e desinteressante, mas o desporto por introduzir trabalho de equipa e competitividade faz com que seja mais atrativo a maior parte da população. Como geralmente os desportos tem vários participantes, por vezes e complicado organizar jogos, onde vários participantes podem atender no mesmo horário e local. 
+E com a dependência da tecnologia na nossa sociedade pretendemos utiliza la a nosso favor, por isso pretendemos criar um aplicativo que nos permite de maneira mais acessível criar e organizar partidas de derivados desportos, onde podemos participar com colegas e amigos ou com outros usuários.
 
-- Desenvolvimento de uma App para Desporto.
 
-**Objetivos específicos**
+OBJETIVOS
 
-- Organizar ou participar em jogos;
-- Reservar um campo para planejar um jogo;
-- Emitir notificações após a confirmação ou cancelamento de um jogo;
+Com a nossa aplicação pretendemos principalmente criar uma maneira onde os utilizadores consigam organizar jogos com vários participantes de forma mais eficiente, organizada e simples, outro dos nossos objetivos e dar oportunidade aos utilizadores a poderem participar em jogos com utilizadores que não conheçam, pois nem sempre e possível organizar um jogo com amigos ou colegas.
+Uma das motivações que nos levou a realizar este trabalho pois sentimos que este e um problema muito comum para quem pretendem organizar ou participar em jogos.
 
-**Público Alvo**
 
+
+Público Alvo
 O nosso publico alvo será focado em jovens maiores de 16 anos, residentes em Portugal.
+E será focado em pessoas que os interesses seja praticar desporto, mais especificamente futebol, basquetebol e padel.
 
-**Pesquisa de mercado sobre aplicações semelhantes**
+Pesquisa de mercado sobre aplicações semelhantes
+Captain é uma App de desporto semelhante a que vamos desenvolver, o motivo do desenvolvimento de ambas as aplicações e exatamente o mesmo, no entanto a maneira de como pretendemos desenvolver a aplicação será oposta, captain baseia-se numa aplicação onde os usuários criam um grupo de chat, como o WhatsApp, e convidam pessoas que já tem o contacto telefónico ou o nome do usuário.	www.captain.pt/pt
 
-- Captain é uma App de desporto semelhante a que vamos desenvolver. [**www.captain.pt/pt**](http://www.captain.pt/pt)
+Guiões de teste 
 
-**Caso de uso da Aplicação**
+•	Guião 1 (objeto core do projeto) - Um grupo de amigos decide organizar uma partida de futebol, poderá abrir a nossa aplicação no seu telefone: “TeamUp”. Assim que abrir a aplicação e iniciar a cessão poderá agendar um jogo e convidar os seus amigos e colegas.
 
-1- Criar uma conta
+•	Guião 2 (utilização diferente do core do projeto) - O mesmo grupo de amigos organiza um jogo de basquetebol, mas faltam dois jogadores para poderem realizar o jogo, fazem o mesmo processo de agendar e convidam os seus amigos, mas como faltam participantes, poderão convidar utilizadores que querem participar em partidas dos jogos referidos por seus criadores.
 
-1-Username
+•	Guião 3 (utilização diferente do core do projeto) – Um utilizador quer participar numa partida de padel, mas não conhece ninguém que queira participar num jogo, utilizando a nossa aplicação o usuário pode se juntar se a partidas que se estão a ser organizadas por outros utilizadores e que necessitem de participantes.
+Descrição genérica da solução a implementar
 
-2-Numero telefónico ou email
+Como referimos pretendemos criar uma aplicação, que os usuários possam organizar ou participar em partidas de vários deportos, dizendo isto o nosso aplicativo vai dar a possibilidade aos utilizadores que criem e gerenciem “eventos”, que serão os jogos que o utilizador criou, o organizador do jogo poderá convidar amigos e colegas que estão inseridos na app, ou poderá deixar o evento aberto para que outros utilizadores se possam juntar ao “evento”. 		Assim que o número de participantes atingir o valor desejado para a que a partida se possa realizar o jogo será marcado e os participantes receberam uma notificação avisando do mesmo.
+Enquadramento nas diversas Unidades Curriculares: 
 
-2-Criar ou participar num jogo
+•	Base de Dados – O projeto inclui uma base de dados para o armazenamento, gestão, manipulação e organização de informação sobre os utilizadores, especificamente jogadores, organizadores, campos, notificações e aos jogos;
 
-3-Selecionar que tipo de desporto pretende e com quantos elementos o jogo terá
+•	Programação Orientada a Objetos - Utilizaremos a linguagem Java juntamente com o Spring Boot que e um framwork Open Source para simplificar as configurações iniciais do projeto, servira para o Backend da aplicação. Esta framwork será o ponto intermedio entre a aplicação movel(Frontend) e a base de dados.
 
-4.
+•	Competências Comunicacionais – Iremos utilizar as técnicas aprendidas em sala de aula como estar à vontade para comunicar com o publico que nos ouve, posicionamento, ter uma abordagem clara e outras técnicas que precisamos para melhorar as nossas apresentações de projeto. 
 
-4.1 Se criar o jogo
 
--conseguem convidar usuários para o jogo ou retirar participantes do jogo.
+•	Programação de Dispositivos Moveis – Será criada uma aplicação movel que funcionara como Frontend do projeto. Os utilizadores usarão esta aplicação para interagirem com os recursos disponibilizados pelo backend e a base de dados.  A aplicação terá uma interface gráfica do utilizador (GUI) na qual os utilizadores poderão fazer a interação.
 
-4.2 Se for participar
+•	Matemática Discreta - Desenvolvimento da componente de processamento e análise dos dados recolhidos pela aplicação.
 
-1- Dos jogos que estão por realizar de outros usuários selecionar o qual pretender
+Requisitos Técnicos para desenvolvimento do projeto
+ Para o desenvolvimento deste projeto, será necessária a aprendizagem e utilização de algumas linguagens de programação e outras plataformas como:
+•	Linguagem Java - Para o desenvolvimento em Spring Boot da backend API e da aplicação Android;
+•	Linguagem SQL – Para manipulação dos dados na base de dados da App;
+•	Programação movel;
+•	Modelador de software para criação do diagrama de caso de uso da App;
+•	Editor de texto;
 
-**Requisitos Técnicos para Desenvolvimento do Projeto**
+Arquitetura da solução
+A nossa aplicação, será pequena e simples, no entanto necessitara de ser organizada por várias tecnologias e equipamentos, como:
+•	Backend API
+•	Base de dados
+•	Aplicação Android
 
-- Sistema de gestão de base dados;
-- Editor de texto;
-- Modelador de software para criação do diagrama de caso de uso da App;
-- Browser;
-- IDE;
+Tecnologias a utilizar     
+•	Spring Boot- Desenvolvimento de um servidor em Spring Boot usando arquitetura REST, integração da aplicação com a base de dados.    
+•	PostgreSQL – Para a base de dados.  
+•	StarUML - Para o diagrama de caso de uso da app.  
+•	Visual Studio Code -  editor de código-fonte.      
 
-**Ferramentas e Tecnologias para o Desenvolvimento do Projeto**
 
-![](RackMultipart20221008-1-necj8l_html_423a4ca2a1bebb56.png) ![](RackMultipart20221008-1-necj8l_html_4ebbb9223ae0ebcc.png) ![](RackMultipart20221008-1-necj8l_html_d502d3ee3e6b7c33.png)
 
-![](RackMultipart20221008-1-necj8l_html_2a3ffd53d24ff43c.png) ![](RackMultipart20221008-1-necj8l_html_6312a2472cdfd04e.png) ![](RackMultipart20221008-1-necj8l_html_fff4ff5e0099ec51.png)
 
-**PLANEJAMENTO E CALENDARIZAÇÃO**
+PLANEJAMENTO E CALENDARIZAÇÃO
+ 
 
-![](RackMultipart20221008-1-necj8l_html_80e0fb6fcd2060e9.png)
+ 
+ 
+Para melhor compreensão do gráfico de Gantt do Projeto deixamos o transferível do Excel no GitHub.
+BIBLIOGRAFIA
 
-**BIBLIOGRAFIA**
+https://www.captain.pt/pt
 
-[**https://www.captain.pt/pt**](https://www.captain.pt/pt)
+https://anjosdanoite.pt/obesidade-em-portugal/#:~:text=De%20acordo%20com%20Instituto%20Nacional,de%20peso%20(incluindo%20obesidade) 
 
-[**https://anjosdanoite.pt/obesidade-em-portugal/#:~:text=De%20acordo%20com%20Instituto%20Nacional,de%20peso%20(incluindo%20obesidade)**](https://anjosdanoite.pt/obesidade-em-portugal/#:~:text=De%20acordo%20com%20Instituto%20Nacional,de%20peso%20(incluindo%20obesidade))
+https://gizmodo.uol.com.br/mapa-mostra-a-obesidade-no-mundo-dividida-por-paises/
 
-[**https://gizmodo.uol.com.br/mapa-mostra-a-obesidade-no-mundo-dividida-por-paises/**](https://gizmodo.uol.com.br/mapa-mostra-a-obesidade-no-mundo-dividida-por-paises/)
+
+
+
+
+
+
