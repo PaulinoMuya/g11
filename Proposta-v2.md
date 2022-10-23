@@ -75,7 +75,7 @@ Uma das motivações que nos levou a realizar este trabalho pois sentimos que es
 
 
 
-Público Alvo
+PUBLICO ALVO
 
 O nosso publico alvo será focado em jovens maiores de 16 anos, residentes em Portugal.
 
@@ -85,7 +85,7 @@ Pesquisa de mercado sobre aplicações semelhantes
 
 Captain é uma App de desporto semelhante a que vamos desenvolver, o motivo do desenvolvimento de ambas as aplicações e exatamente o mesmo, no entanto a maneira de como pretendemos desenvolver a aplicação será oposta, captain baseia-se numa aplicação onde os usuários criam um grupo de chat, como o WhatsApp, e convidam pessoas que já tem o contacto telefónico ou o nome do usuário.	www.captain.pt/pt
 
-Guiões de teste 
+GUIOES DE TESTE
 
 •	Guião 1 (objeto core do projeto) - Um grupo de amigos decide organizar uma partida de futebol, poderá abrir a nossa aplicação no seu telefone: “TeamUp”. Assim que abrir a aplicação e iniciar a cessão poderá agendar um jogo e convidar os seus amigos e colegas.
 
