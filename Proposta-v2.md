@@ -1,7 +1,7 @@
 ![Imagem1](https://user-images.githubusercontent.com/99680341/197422438-50bb6d0d-4a94-4d1f-9d3c-1bb538d984ec.png)
 
 Projecto de Desenvolvimento Móvel
-Desenvolvimento de uma App para desporto: “TeamUp”
+Desenvolvimento de uma App para desporto: “GetMatch”
 
 
 
@@ -87,7 +87,7 @@ Captain é uma App de desporto semelhante a que vamos desenvolver, o motivo do d
 
 GUIOES DE TESTE
 
-•	Guião 1 (objeto core do projeto) - Um grupo de amigos decide organizar uma partida de futebol, poderá abrir a nossa aplicação no seu telefone: “TeamUp”. Assim que abrir a aplicação e iniciar a cessão poderá agendar um jogo e convidar os seus amigos e colegas.
+•	Guião 1 (objeto core do projeto) - Um grupo de amigos decide organizar uma partida de futebol, poderá abrir a nossa aplicação no seu telefone: “GetMatch”. Assim que abrir a aplicação e iniciar a cessão poderá agendar um jogo e convidar os seus amigos e colegas.
 
 •	Guião 2 (utilização diferente do core do projeto) - O mesmo grupo de amigos organiza um jogo de basquetebol, mas faltam dois jogadores para poderem realizar o jogo, fazem o mesmo processo de agendar e convidam os seus amigos, mas como faltam participantes, poderão convidar utilizadores que querem participar em partidas dos jogos referidos por seus criadores.
 
